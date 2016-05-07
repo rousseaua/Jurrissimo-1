@@ -1,18 +1,18 @@
 class SiteController < ApplicationController
 
-	def about
+	def index
 	end
 
-	def contact
+	def contacts
 	end
 
 	def index
 	end
 
-	def page
+	def blog
 	end
 
-	def works
+	def services
 	end
 
 end
